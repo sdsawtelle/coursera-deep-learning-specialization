@@ -9,7 +9,9 @@ The notebook [deep-learning-resources]() is just a place for me to collect links
 
 I did not include the homework notebooks and associated jupyter workspaces in this repo, to respect the Coursera paywall.
 
-## Listing of Course-Notes Notebooks
+## Listing of Course Notebooks
+*NOTE: I use custom CSS for image insertion and some other formatting, which is sanitized by the github notebook previewer (see [this article](https://blog.jupyter.org/rendering-notebooks-on-github-f7ac8736d686). To correctly preview a full notebook in nbviewer, you can click on the pokeball-looking icon at the top of the github rendered preview.*
+
 [neural-nets-and-deep-learning](1-course-neural-nets-and-deep-learning/neural-nets-and-deep-learning-course-notebook.ipynb) - An intro to neural networks progressing from logistic regression as an NN, to shallow NNs, to deep L-layer NNs.
 
 [improving-deep-neural-networks](2-course-improving-deep-neural-networks/improving-deep-neural-networks-course-notebook.ipynb) - Various important topics in working with NNs including bias/variance, regularization, optimization methods and backprop considerations and hyperparameter tuning. Also introduced tensorflow + keras.
